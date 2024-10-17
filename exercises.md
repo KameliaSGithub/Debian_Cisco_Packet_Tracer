@@ -15,7 +15,3 @@
 
 6. Create a Cloud Networking Simulation
 - Create a Packet Tracer simulation demonstrating an IBM Cloud deployment across multiple cloud service providers (e.g., AWS, Azure), documenting how to establish inter-cloud routing and security policies in this hybrid cloud environment.
-
-7. Make a Certification Study Guide
-- Make a study guide based on key topics from networking certifications like CCNA or JNCIA, including hands-on exercises to be performed in Packet Tracer to enhance understanding of each subject area.
-
